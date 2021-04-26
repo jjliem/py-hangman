@@ -176,7 +176,7 @@ while True:
 
         #if chances reach 8, game over
         if chance==7:
-            print youlost
+            print youlose
             break
 
         #check if they won by looking for dashes
